@@ -1,5 +1,5 @@
-name = "nika"
-surname = "qobalia"
+name = "Nika"
+surname = "Qobalia"
 age = 17
 height = 180
 
